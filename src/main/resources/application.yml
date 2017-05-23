@@ -1,0 +1,6 @@
+cloud.aws:
+  credentials:
+    accessKey: "AKIAI44JABDBEI6B5G4A"
+    secretKey: "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"
+  region:
+    static: "us-west-2"
